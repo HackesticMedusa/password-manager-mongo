@@ -22,7 +22,7 @@ Password Manager is a web application that allows users to securely store and ma
     
 2. Navigate to the project directory:
     ```sh
-    cd password-manager
+    cd password-manager-mongo
     ```
     
 3. Install dependencies:
