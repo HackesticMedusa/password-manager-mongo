@@ -1,6 +1,6 @@
 # Password Manager
 
-![Screenshot](screenshot.png)
+![Screenshot](/public/screenshots/screenshot.png)
 
 ## Description
 
@@ -11,6 +11,7 @@ Password Manager is a web application that allows users to securely store and ma
 - Add, edit, and delete passwords
 - Copy passwords to clipboard
 - Toggle password visibility
+- Securely store and retrieve passwords using MongoDB
 - Responsive design
 
 ## Installation
